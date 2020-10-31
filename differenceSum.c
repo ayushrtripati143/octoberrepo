@@ -1,8 +1,8 @@
 //https://www.hackerrank.com/challenges/sum-numbers-c/problem
 #include <stdio.h>
 #include <string.h>
-#include <stdlib.h>
-	int main(){
+	int main()
+	{
     int i, j;
     float f, g;
     scanf("%d %d %f %f", &i, &j, &f, &g);
